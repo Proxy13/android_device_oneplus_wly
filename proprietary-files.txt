@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 10 Pro 5G (NE2213_14.0.0.300(EX01)).
+## are from OnePlus 10 Pro 5G (NE2213_14.0.0.600(EX01)).
 
 # ACDB
 odm/etc/acdbdata/FTM/acdb_cal.acdb
@@ -1059,8 +1059,8 @@ odm/lib64/vendor.oplus.hardware.cameraextension-V1-service-impl.so
 odm/lib64/vendor.oplus.hardware.cammidasservice-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.orms@1.0.so
 odm/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so
-odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk.so
 odm/lib64/vendor.oplus.hardware.sendextcamcmd-V1-service-impl.so
+odm/lib64/vendor.oplus.hardware.sendextcamcmd-V2-ndk.so
 odm/lib64/vendor.oplus.hardware.urcc-V1-ndk.so
 odm/lib64/vendor.oplus.hardware.urcc-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.virtual_device.camera.hal@3.3.so
@@ -1261,7 +1261,7 @@ vendor/lib64/libthreadutils.so
 vendor/lib64/libubifocus.so
 vendor/lib64/vendor.oplus.hardware.cameraextension-V1-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so
-vendor/lib64/vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform.so
+vendor/lib64/vendor.oplus.hardware.sendextcamcmd-V2-ndk_platform.so
 vendor/lib64/vendor.qti.hardware.camera.aon@1.0-service-impl.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 vendor/lib64/vendor.qti.hardware.display.config-V2-ndk_platform.so
