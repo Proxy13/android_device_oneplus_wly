@@ -15,9 +15,6 @@ TARGET_SCREEN_DENSITY := 450
 # DTB
 TARGET_KERNEL_CONFIG += vendor/oplus/wly.config
 
-# HIDL
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
-
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 

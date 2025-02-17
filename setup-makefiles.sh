@@ -11,5 +11,6 @@ set -e
 export DEVICE=wly
 export DEVICE_COMMON=sm8450-common
 export VENDOR=oneplus
+export VENDOR_COMMON=${VENDOR}
 
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"
