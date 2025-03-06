@@ -12,9 +12,6 @@ DEVICE_PATH := device/oneplus/wly
 # Display
 TARGET_SCREEN_DENSITY := 450
 
-# DTB
-TARGET_KERNEL_CONFIG += vendor/oplus/wly.config
-
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
